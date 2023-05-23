@@ -348,7 +348,7 @@ body {
 
 .services {
   overflow-x: hidden;
-  margin: 10px 0; }
+  margin: 0 0; }
   .services .ios {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/ios.png);
     background-position: center;
